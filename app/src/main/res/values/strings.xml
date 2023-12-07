@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KhushiCafe</string>
+    <string name="title_home">Welcome</string>
+    <string name="title_dashboard">Menu</string>
+    <string name="title_notifications">Event</string>
+    <string-array name="coffee_category">
+        <item>Hot Coffee</item>
+        <item>Cold Coffee</item>
+        <item>Tea</item>
+        <item>Refreshment</item>
+    </string-array>
+</resources>
