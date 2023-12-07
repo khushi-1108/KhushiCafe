@@ -3,6 +3,8 @@
     <string name="title_home">Welcome</string>
     <string name="title_dashboard">Menu</string>
     <string name="title_notifications">Event</string>
+    <string name="welcome_to_khushi_s_cafe">Welcome to Khushi\'s Cafe</string>
+    <string name="description">Discover a cozy space where every cup tells a story. Khushi Cafe invites you to savor exceptional coffees and delightful treats in a warm and friendly atmosphere.</string>
     <string-array name="coffee_category">
         <item>Hot Coffee</item>
         <item>Cold Coffee</item>
